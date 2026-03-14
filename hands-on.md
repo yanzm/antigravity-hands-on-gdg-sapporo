@@ -487,6 +487,10 @@ zip -r ../my-app.zip . -x "node_modules/*" ".git/*" "my-app.zip" && mv ../my-app
 4. Cloud Shell で以下のコマンドを実行して、Cloud Run へのデプロイに必要な権限を設定します（新しいプロジェクトでは Cloud Build のサービスアカウントに必要なロールが付与されていないため、この手順が必要です）
 
 ```
+gcloud services enable compute.googleapis.com cloudbuild.googleapis.com run.googleapis.com
+```
+
+```
 PROJECT_NUMBER=$(gcloud projects describe $(gcloud config get-value project) --format='value(projectNumber)')
 gcloud projects add-iam-policy-binding $(gcloud config get-value project) \
   --member="serviceAccount:${PROJECT_NUMBER}-compute@developer.gserviceaccount.com" \
