@@ -6,7 +6,7 @@
 
 1. 以下の URL にアクセスし、**[CLICK HERE TO ACCESS YOUR CREDITS]** をクリックします
 
-   https://trygcp.dev/claim/build-ai-gdg-kyoto-antigravity
+   https://trygcp.dev/claim/deveco-gdg-07244a44
 
 2. 氏名・Gmailアカウントが正しいことを確認し、**[同意して続行]** をクリックします
 
@@ -25,7 +25,7 @@
 
 2. **[プロジェクトを選択]** 、 **[新しいプロジェクト]** の順にクリックします
 
-3. **[プロジェクト名]** に **GDGKyotoAntigravityWorkshop** と入力し、**[請求先アカウント]** に **「Google Cloud 無料トライアルの請求先アカウント」**を選択して、**[作成]** をクリックします
+3. **[プロジェクト名]** に **GDGSapporoAntigravityWorkshop** と入力し、**[請求先アカウント]** に **「Google Cloud 無料トライアルの請求先アカウント」**を選択して、**[作成]** をクリックします
 
    （請求先アカウントが1つしかない場合、**[請求先アカウント]** の選択項目は表示されず、自動的に「Google Cloud 無料トライアルの請求先アカウント」が選択されます。）
 

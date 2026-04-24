@@ -1,6 +1,6 @@
-# antigravity-hands-on-gdg-kyoto
+# antigravity-hands-on-gdg-sapporo
 
-Build with AI 2026 In Kyoto — Antigravity ハンズオン
+Build with AI 2026 EZO — Antigravity ハンズオン
 
 ## ドキュメント
 
