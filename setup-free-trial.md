@@ -6,7 +6,7 @@
 
 1. 以下の URL にアクセスし、**[CLICK HERE TO ACCESS YOUR CREDITS]** をクリックします
 
-   https://trygcp.dev/claim/deveco-gdg-07244a44
+   https://trygcp.dev/claim/deveco-gdg-07244a44215
 
 2. 氏名・Gmailアカウントが正しいことを確認し、**[同意して続行]** をクリックします
 
